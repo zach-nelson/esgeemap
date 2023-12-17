@@ -1,2 +1,3 @@
 # esgeemap
-eastern sierra geospatial data from earth engine using geempa as the python IDE. I'll populate some examples with local data to prototype some useful applications, such as automatically calculating flooded acreage including automated emails or dashboard alerts for acreage updates.
+geemap earth engine python IDE. I'll stash some examples using GIS data from the eastern sierra here.
+
